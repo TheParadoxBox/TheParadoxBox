@@ -1,15 +1,20 @@
-# TheParadoxBox
-#### The latest and greatest software for managing your crippled programs!
+# Hello, World!
 
-Do you ever feel like your programs are riddled with bugs? **Good!** TheParadoxBox is here to serve you.
+I'm **Nick Gilbert**, a Computer Science major at RIT. I'm also a member of **Computer Science House**, one of RIT's Special Interest Houses. 
 
-TheParadoxBox finds bugs in the software he likes, **and does absolutely nothing else!** No contributing, no ideas for fixes, no nothing. He justs minds his own business and plays Doom or something.
+🗒️ **Languages**: Bash, C, C#, HTML/CSS, Java, JavaScript, Vala, Python \
+🖥️ **Technologies**: Apache, Git, GTK, L<sup>A</sup>T<sub>E</sub>X, Linux, MediaWiki, VS Code, Vim \
+🌳 **Interests**: Acting, Fishing, Hiking, Hobby Programming, Music, Robotics, Spanish
 
-**Interested?** There's a download for the program in the aptly named repository. If you're actually in the repository and not on my profile, you're just one click away!
+## Projects
 
-<!---
-TheParadoxBox/TheParadoxBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**[CSH Website Spanish Translation](github.com/TheParadoxBox/CSHPublicSite/tree/translation-es)** - Implemented localization for CSH's public website. \
+**[Diabolical Website Builder](github.com/TheParadoxBox/diabolical-website-builder)** - Developed a static site generator using POSIX sh and Pandoc. \
+**[Region Reigner 5000](https://github.com/TheParadoxBox/rotr_bot_v1_redux)** - Collaborated with others to update and document a Discord wargame bot.
 
-<!--- Yeah whatever GitHub --->
+_I promise I do more than web dev. More to come!_
+
+## Find me elsewhere!
+
+**Website:** [csh.rit.edu/~paradox](https://csh.rit.edu/~paradox) \
+**Usernames:** TheParadoxBox174, TheParadoxBox, Paradox174, or paradox
